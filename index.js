@@ -64,7 +64,7 @@ function placeOrder(cardNumber) {
     for (cart.length >= 0) {
       cart.cart.shift();
     }
-    }
   }
-
 }
+
+
